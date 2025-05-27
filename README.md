@@ -1,14 +1,12 @@
-# Caram3lo
+# Caram3lo_
 ![Caram3loV1](/assets/caramelov1.png)
 ## Caram3lo fareja a internet em busca de fontes de financiamento para projetos culturais.
 
-## Pense no `.caramelo` como um cão que fareja oportunidades **de financiamento para projetos culturais**.
-
 - - -
 
-## **O QUE É O** `.car4melo`**?**
+## **O QUE É O** `Caram3lo_`**?**
 
-- **Procura editais culturais** em vários sites, nacionais e paraibanos.
+- É um *bot web scraper* que **procura editais culturais** em vários sites, nacionais e paraibanos.
 - Ao encontrar um edital, ele **dá uma olhada** para ver se tem o link para o documento (tipo um PDF), se tem prazo para se inscrever e se diz quais áreas podem participar.
 - Se o edital estiver "completo" com essas informações, ele **guarda** isso em um lugar seguro.
 - Depois, ele **avisa lá no Discord** sobre o edital novo que ele encontrou.
@@ -18,7 +16,7 @@ Basicamente, ele é feito para encontrar e disparar atualizações sobre oportun
 
 ## COMO FUNCIONA?
 
-- A cada hora, Car4melo_ busca novos editais em vários sites cadastrados, procurando termos relevantes como “edital”, “chamada pública”, “oportunidade”, “patrocínio” e outras palavras-chave relativas à fontes de financiamento.
+- A cada hora, Caram3lo_ busca novos editais em vários sites cadastrados, procurando termos relevantes como “edital”, “chamada pública”, “oportunidade”, “patrocínio”, "seleção", "incentivo" e outras palavras-chave relativas à fontes de financiamento.
 - Extrai informações essenciais de potenciais editais encontrados.
 - Valida cada edital verificando a presença de:
     - **Link direto para o documento oficial** (.PDF, .DOCX, .CVS, .PPTX, .PPT).
