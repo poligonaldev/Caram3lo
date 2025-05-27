@@ -1,7 +1,7 @@
 # Caram3lo_
-### O melhor amigo do artista que sofre com editais.
+### O melhor amigo daquele artista que sofre com editais.
 ![Caram3loV1](/assets/caramelov1.png)
-## Caram3lo_ fareja a internet em busca de fontes de financiamento para projetos culturais e volta com as informações mais preciosas de cada uma. Ele é basicamente aquela produtora que fica te aperreando (com razão!) pra tu não perder os prazos.
+## Caram3lo_ fareja a internet em busca de fontes de financiamento para projetos culturais e volta com as informações mais preciosas de cada uma. É basicamente aquela produtora competente que fica te aperreando (com razão!) pra tu não perder os prazos.
 
 - - -
 ## **O QUE É O** `Caram3lo_`**?**
@@ -19,7 +19,7 @@ Basicamente, ele é feito para encontrar e disparar atualizações sobre oportun
 - A cada hora, `Caram3lo_` busca novos editais em vários sites cadastrados, procurando termos relevantes como “edital”, “chamada pública”, “oportunidade”, “patrocínio”, “seleção”, “incentivo” e outras palavras-chave relativas à fontes de financiamento.
 - Extrai informações essenciais de potenciais editais encontrados.
 - Valida cada edital verificando a presença de:
-    - **Link direto para o documento oficial** (.PDF, .DOCX, .CVS, .PPTX, .PPT).
+    - **Link direto para o documento oficial** (.PDF, .DOCX, .DOC, .CVS, .PPTX, .PPT).
     - **Prazo de inscrição**.
     - **Categorias participantes**.
     - Valores totais e por categorias / projetos.
@@ -31,6 +31,6 @@ Basicamente, ele é feito para encontrar e disparar atualizações sobre oportun
 
 ## TECH STACK
 
-- JavaScript - [**Node.js**](https://nodejs.org/pt) (open-source), [Puppeteer](https://pptr.dev/) (open-source)
+- JavaScript - [**Node.js**](https://nodejs.org/pt) (open-source), [Puppeteer](https://pptr.dev/) (open-source), 
 - Github, Github Pages (gratuito)
 - Editado no [**VS Code**](https://code.visualstudio.com/) (open-source).
