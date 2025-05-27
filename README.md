@@ -1,7 +1,7 @@
 # Caram3lo_
 ### O melhor amigo do artista que sofre com editais.
 ![Caram3loV1](/assets/caramelov1.png)
-## Caram3lo_ fareja a internet em busca de fontes de financiamento para projetos culturais e volta com as informações mais preciosas de cada uma.
+## Caram3lo_ fareja a internet em busca de fontes de financiamento para projetos culturais e volta com as informações mais preciosas de cada uma. Ele é basicamente aquela produtora que fica te aperreando (com razão!) pra tu não perder os prazos.
 
 - - -
 ## **O QUE É O** `Caram3lo_`**?**
