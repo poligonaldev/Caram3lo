@@ -1,4 +1,5 @@
 # Caram3lo_
+### O melhor amigo do artista ruim de edital.
 ![Caram3loV1](/assets/caramelov1.png)
 ## Caram3lo_ fareja a internet em busca de fontes de financiamento para projetos culturais.
 
