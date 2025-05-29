@@ -86,14 +86,21 @@ https://www.joaopessoa.pb.gov.br/categoria/noticias/
 Com editais filtrados, validados e armazenados, é hora de mostrá-los! Assim que um edital concluir sua etapa de raspagem, CARAMEL0 ira formatar as informações capturadas e as distribuirá para o canal do Discord, no Whatsapp e no SITE do app bezerramos.cc/caramel0
 
 T3CH STACK
-	JavaScript
-	- [Node.js](https://nodejs.org/pt/learn/getting-started/introduction-to-nodejs){:target="_blank"}
-	- [Puppeteer](https://pptr.dev/){:target="_blank"}
-	- [Cheerios](https://cheerio.js.org/){:target="_blank"}
-	- [get-urls](https://www.npmjs.com/package/get-urls){:target="_blank"}
-	- [node-fetch](https://www.npmjs.com/package/node-fetch){:target="_blank"}
-	- [Cross-Origin Resource Sharing (CORS)](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Guides/CORS){:target="_blank"}
-	- [IndexedDB](https://developer.mozilla.org/pt-BR/docs/Web/API/IndexedDB_API){:target="_blank"}
+JavaScript
+
+[Node.js](https://nodejs.org/pt/learn/getting-started/introduction-to-nodejs)
+
+[Puppeteer](https://pptr.dev/){:target="_blank"}
+
+[Cheerios](https://cheerio.js.org/){:target="_blank"}
+
+[get-urls](https://www.npmjs.com/package/get-urls){:target="_blank"}
+
+[node-fetch](https://www.npmjs.com/package/node-fetch){:target="_blank"}
+
+[Cross-Origin Resource Sharing (CORS)](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Guides/CORS){:target="_blank"}
+
+[IndexedDB](https://developer.mozilla.org/pt-BR/docs/Web/API/IndexedDB_API){:target="_blank"}
 
 E5TRUTURA
 
