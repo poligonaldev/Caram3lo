@@ -90,17 +90,17 @@ JavaScript
 
 [Node.js](https://nodejs.org/pt/learn/getting-started/introduction-to-nodejs)
 
-[Puppeteer](https://pptr.dev/){:target="_blank"}
+[Puppeteer](https://pptr.dev/)
 
-[Cheerios](https://cheerio.js.org/){:target="_blank"}
+[Cheerios](https://cheerio.js.org/)
 
-[get-urls](https://www.npmjs.com/package/get-urls){:target="_blank"}
+[get-urls](https://www.npmjs.com/package/get-urls)
 
-[node-fetch](https://www.npmjs.com/package/node-fetch){:target="_blank"}
+[node-fetch](https://www.npmjs.com/package/node-fetch)
 
-[Cross-Origin Resource Sharing (CORS)](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Guides/CORS){:target="_blank"}
+[Cross-Origin Resource Sharing (CORS)](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Guides/CORS)
 
-[IndexedDB](https://developer.mozilla.org/pt-BR/docs/Web/API/IndexedDB_API){:target="_blank"}
+[IndexedDB](https://developer.mozilla.org/pt-BR/docs/Web/API/IndexedDB_API)
 
 E5TRUTURA
 
