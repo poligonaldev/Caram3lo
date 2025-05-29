@@ -1,10 +1,10 @@
-# Caram3lo_
+# Caramel0
 ### O melhor amigo daquele artista que sofre com editais.
-![Caram3loV1](/assets/caramelov1.png)
-## Caram3lo_ fareja a internet em busca de fontes de financiamento para projetos culturais e volta com as informações mais preciosas de cada uma. É basicamente aquela produtora competente que fica te aperreando (com razão!) pra tu não perder os prazos.
+![Caramel0V1](/assets/caramelov1.png)
+## Caram3l0 fareja a internet em busca de fontes de financiamento para projetos culturais e volta com as informações mais preciosas de cada uma. É basicamente aquela produtora competente que fica te aperreando (com razão!) pra tu não perder os prazos.
 
 - - -
-## **O QUE É O** `Caram3lo_`**?**
+## **O QUE É O** `Caramel0`**?**
 
 - **Procura editais culturais** em vários sites, nacionais e paraibanos.
 - Ao encontrar um edital, ele **dá uma olhada** para ver se tem o link para o documento (tipo um PDF), se tem prazo para se inscrever e se diz quais áreas podem participar.
@@ -16,7 +16,7 @@ Basicamente, ele é feito para encontrar e disparar atualizações sobre oportun
 
 ## COMO FUNCIONA?
 
-- A cada hora, `Caram3lo_` busca novos editais em vários sites cadastrados, procurando termos relevantes como “edital”, “chamada pública”, “oportunidade”, “patrocínio”, “seleção”, “incentivo” e outras palavras-chave relativas à fontes de financiamento.
+- A cada hora, `Caramel0` busca novos editais em vários sites cadastrados, procurando termos relevantes como “edital”, “chamada pública”, “oportunidade”, “patrocínio”, “seleção”, “incentivo” e outras palavras-chave relativas à fontes de financiamento.
 - Extrai informações essenciais de potenciais editais encontrados.
 - Valida cada edital verificando a presença de:
     - **Link direto para o documento oficial** (.PDF, .DOCX, .DOC, .CVS, .PPTX, .PPT).
