@@ -1,4 +1,4 @@
-# CARAMEL0 - Melhor amigo de artista que sofre com editais.
+# CARAMEL0, melhor amigo de artista que sofre com editais.
 ![Caramel0V1](/assets/caramelov1.png)
 
 ---
