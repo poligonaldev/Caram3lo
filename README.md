@@ -37,13 +37,13 @@ Uma vez/hora CARAMEL0 raspa dados de seu POTE DE RAÇÃO (desde oportunidades na
 
 2) **RABO LEVANTADO** *validação
 
-Ao se deparar com uma possível oportunidade, CARAM3L0_ verifica
+Ao se deparar com uma possível oportunidade, `Caramel0` verifica
 
-2.1. **SE** esse edital já está no POTE. **SE SIM**, CARAMEL0 bate a data pra checar se é uma prorrogação. **SE FOR**, Caram3lo_ dispara o latido de prorrogação; **SE NÃO** for prorrogação, Caram3lo_ descansa (2.1.1. **RABO ABAIXADO** **Assync/Await*) até voltar pra primeira etapa na próxima hora. **SE NÃO** estiver no banco, ele continua fuçando para checar
+2.1. **SE** esse edital já está no POTE. **SE SIM**, CARAMEL0 bate a data pra checar se é uma prorrogação. **SE FOR**, `Caramel0` dispara o latido de prorrogação; **SE NÃO** for prorrogação, `Caramel0` descansa (2.1.1. **RABO ABAIXADO** **Assync/Await*) até voltar pra primeira etapa na próxima hora. **SE NÃO** estiver no banco, ele continua fuçando para checar
 
 2.2. **SE** há um link de download direto para o arquivo do edital (.PDF, DOCX, .DOC, .PPT, PPTX, HTML, .CSV, RTF, PLAIN, .TXT, etc).
 
-2.3. **SE** o edital já expirou (se não tiver mais fonte disponível, Caram3lo_ descansa (2.1.1. **RABO ABAIXADO**).
+2.3. **SE** o edital já expirou (se não tiver mais fonte disponível, `Caramel0` descansa (2.1.1. **RABO ABAIXADO**).
 
 2.4. **SE** o plano de ação (cronograma) do edital e seus valores (orçamento total e por projeto) foram discriminados.
 
