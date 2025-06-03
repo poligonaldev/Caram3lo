@@ -101,21 +101,3 @@ JavaScript
 [Cross-Origin Resource Sharing (CORS)](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Guides/CORS)
 
 [IndexedDB](https://developer.mozilla.org/pt-BR/docs/Web/API/IndexedDB_API)
-
-E5TRUTURA
-
-repo/
-caramel0/
-	farejador/
-		govbr.js
-		prosas.js
-		mapacultura.js
-		funjope.js
-		secultpb.js
-		minc.js
-		caixacultural.js
-	validador/
-	agendador/
-	modelos/
-	p0te/
-	package.json
