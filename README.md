@@ -5,7 +5,7 @@
 
 ## **O QUE É O** `CARAMEL0`**?**
 
-- **Procura editais culturais** em vários sites, nacionais e paraibanos.
+- **Procura editais culturais** em vários sites, nacionais e nordestinos.
 - Ao encontrar um edital, ele **dá uma olhada** para ver se tem o link para o documento (tipo um PDF), se tem prazo para se inscrever e se diz quais áreas podem participar.
 - Se o edital estiver "completo" com essas informações, ele **guarda** isso em um lugar seguro.
 - Depois, ele **avisa** sobre o edital novo que ele encontrou e **manda lembretes importantes** antes do prazo final, tipo "Última semana!" ou "Último dia!".
