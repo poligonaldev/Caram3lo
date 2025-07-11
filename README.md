@@ -5,7 +5,7 @@
 
 ## **O QUE É O** `CARAMEL0`**?**
 
-- **Procura editais culturais** em vários sites, nacionais e paraibanos.
+- **Procura editais culturais** em vários sites, nacionais e nordestinos.
 - Ao encontrar um edital, ele **dá uma olhada** para ver se tem o link para o documento (tipo um PDF), se tem prazo para se inscrever e se diz quais áreas podem participar.
 - Se o edital estiver "completo" com essas informações, ele **guarda** isso em um lugar seguro.
 - Depois, ele **avisa** sobre o edital novo que ele encontrou e **manda lembretes importantes** antes do prazo final, tipo "Última semana!" ou "Último dia!".
@@ -37,13 +37,13 @@ Uma vez/hora CARAMEL0 raspa dados de seu POTE DE RAÇÃO (desde oportunidades na
 
 2) **RABO LEVANTADO** *validação
 
-Ao se deparar com uma possível oportunidade, CARAM3L0_ verifica
+Ao se deparar com uma possível oportunidade, `Caramel0` verifica
 
-2.1. **SE** esse edital já está no POTE. **SE SIM**, CARAMEL0 bate a data pra checar se é uma prorrogação. **SE FOR**, Caram3lo_ dispara o latido de prorrogação; **SE NÃO** for prorrogação, Caram3lo_ descansa (2.1.1. **RABO ABAIXADO** **Assync/Await*) até voltar pra primeira etapa na próxima hora. **SE NÃO** estiver no banco, ele continua fuçando para checar
+2.1. **SE** esse edital já está no POTE. **SE SIM**, CARAMEL0 bate a data pra checar se é uma prorrogação. **SE FOR**, `Caramel0` dispara o latido de prorrogação; **SE NÃO** for prorrogação, `Caramel0` descansa (2.1.1. **RABO ABAIXADO** **Assync/Await*) até voltar pra primeira etapa na próxima hora. **SE NÃO** estiver no banco, ele continua fuçando para checar
 
 2.2. **SE** há um link de download direto para o arquivo do edital (.PDF, DOCX, .DOC, .PPT, PPTX, HTML, .CSV, RTF, PLAIN, .TXT, etc).
 
-2.3. **SE** o edital já expirou (se não tiver mais fonte disponível, Caram3lo_ descansa (2.1.1. **RABO ABAIXADO**).
+2.3. **SE** o edital já expirou (se não tiver mais fonte disponível, `Caramel0` descansa (2.1.1. **RABO ABAIXADO**).
 
 2.4. **SE** o plano de ação (cronograma) do edital e seus valores (orçamento total e por projeto) foram discriminados.
 
@@ -101,21 +101,3 @@ JavaScript
 [Cross-Origin Resource Sharing (CORS)](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Guides/CORS)
 
 [IndexedDB](https://developer.mozilla.org/pt-BR/docs/Web/API/IndexedDB_API)
-
-E5TRUTURA
-
-repo/
-caramel0/
-	farejador/
-		govbr.js
-		prosas.js
-		mapacultura.js
-		funjope.js
-		secultpb.js
-		minc.js
-		caixacultural.js
-	validador/
-	agendador/
-	modelos/
-	p0te/
-	package.json
